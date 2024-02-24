@@ -1,0 +1,1 @@
+let nama: any; // bebas untuk tipe apapun, dengan tipe ini typescript kurang berfungsi
